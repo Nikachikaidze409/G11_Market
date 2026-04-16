@@ -1,3 +1,16 @@
 <Solution>
-  <Project Path="Market.App/Market.App.csproj" />
+  <Folder Name="/Core/">
+    <Project Path="Market.DTO/Market.DTO.csproj" Id="4cc89d50-7c84-4cd7-a567-ec23b833eef3" />
+    <Project Path="Market.Services/Market.Services.csproj" Id="2f5a5cbc-3eeb-421c-a0dd-755bc0ac3b4d" />
+  </Folder>
+  <Folder Name="/Infrastructure/">
+    <Project Path="Market.Extensions/Market.Extensions.csproj" Id="24e9ac0f-9d52-4094-8c42-11444baaf05c" />
+    <Project Path="Market.Repositories/Market.Repositories.csproj" Id="39e16fea-0961-4458-9240-0378c82e6d85" />
+  </Folder>
+  <Folder Name="/Presentation/">
+    <Project Path="Market.App/Market.App.csproj" />
+  </Folder>
+  <Folder Name="/Tests/">
+    <Project Path="Market.Tests/Market.Tests.csproj" Id="fec753a4-46d3-4b8d-8ab8-b27643886ea0" />
+  </Folder>
 </Solution>
