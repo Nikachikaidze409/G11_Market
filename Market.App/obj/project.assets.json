@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User1\\source\\repos\\Market.App\\Market.App\\Market.App.csproj",
+      "projectUniqueName": "C:\\Users\\User1\\source\\repos\\Nikachikaidze409\\G11_Market\\Market.App\\Market.App.csproj",
       "projectName": "Market.App",
-      "projectPath": "C:\\Users\\User1\\source\\repos\\Market.App\\Market.App\\Market.App.csproj",
+      "projectPath": "C:\\Users\\User1\\source\\repos\\Nikachikaidze409\\G11_Market\\Market.App\\Market.App.csproj",
       "packagesPath": "C:\\Users\\User1\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User1\\source\\repos\\Market.App\\Market.App\\obj\\",
+      "outputPath": "C:\\Users\\User1\\source\\repos\\Nikachikaidze409\\G11_Market\\Market.App\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User1\\AppData\\Roaming\\NuGet\\NuGet.Config",
