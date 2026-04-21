@@ -6,4 +6,16 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="Auth0.OidcClient.WinForms" Version="4.4.0" />
+    <PackageReference Include="BCrypt.Net-Core" Version="1.6.0" />
+    <PackageReference Include="EntityFramework" Version="6.5.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Market.Domain\Market.Domain.csproj" />
+    <ProjectReference Include="..\Market.DTO\Market.DTO.csproj" />
+    <ProjectReference Include="..\Market.Repositories\Market.Repositories.csproj" />
+  </ItemGroup>
+
 </Project>

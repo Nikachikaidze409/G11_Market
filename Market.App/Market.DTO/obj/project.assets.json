@@ -1,26 +1,50 @@
 {
   "version": 3,
   "targets": {
-    "net10.0": {}
+    "net10.0": {
+      "Market.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/Market.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Market.Domain.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Market.Domain/1.0.0": {
+      "type": "project",
+      "path": "../Market.Domain/Market.Domain.csproj",
+      "msbuildProject": "../Market.Domain/Market.Domain.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net10.0": []
+    "net10.0": [
+      "Market.Domain >= 1.0.0"
+    ]
   },
   "packageFolders": {
-    "C:\\Users\\User1\\.nuget\\packages\\": {}
+    "C:\\Users\\Manoo\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User1\\source\\repos\\Nikachikaidze409\\G11_Market\\Market.App\\Market.DTO\\Market.DTO.csproj",
+      "projectUniqueName": "C:\\Users\\Manoo\\source\\repos\\G11_Market\\Market.App\\Market.DTO\\Market.DTO.csproj",
       "projectName": "Market.DTO",
-      "projectPath": "C:\\Users\\User1\\source\\repos\\Nikachikaidze409\\G11_Market\\Market.App\\Market.DTO\\Market.DTO.csproj",
-      "packagesPath": "C:\\Users\\User1\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User1\\source\\repos\\Nikachikaidze409\\G11_Market\\Market.App\\Market.DTO\\obj\\",
+      "projectPath": "C:\\Users\\Manoo\\source\\repos\\G11_Market\\Market.App\\Market.DTO\\Market.DTO.csproj",
+      "packagesPath": "C:\\Users\\Manoo\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Manoo\\source\\repos\\G11_Market\\Market.App\\Market.DTO\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\User1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Manoo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -28,13 +52,18 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net10.0": {
           "framework": "net10.0",
           "targetAlias": "net10.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\Manoo\\source\\repos\\G11_Market\\Market.App\\Market.Domain\\Market.Domain.csproj": {
+              "projectPath": "C:\\Users\\Manoo\\source\\repos\\G11_Market\\Market.App\\Market.Domain\\Market.Domain.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

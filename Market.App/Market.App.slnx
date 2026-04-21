@@ -1,5 +1,6 @@
 <Solution>
   <Folder Name="/Core/">
+    <Project Path="Market.Domain/Market.Domain.csproj" Id="1a5c6170-b273-4dd1-ba2b-664fbfabfa82" />
     <Project Path="Market.DTO/Market.DTO.csproj" Id="4cc89d50-7c84-4cd7-a567-ec23b833eef3" />
     <Project Path="Market.Services/Market.Services.csproj" Id="2f5a5cbc-3eeb-421c-a0dd-755bc0ac3b4d" />
   </Folder>

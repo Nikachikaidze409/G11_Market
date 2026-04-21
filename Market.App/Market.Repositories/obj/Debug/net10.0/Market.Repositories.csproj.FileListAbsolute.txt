@@ -1,0 +1,13 @@
+C:\Users\Manoo\source\repos\G11_Market\Market.App\Market.Repositories\obj\Debug\net10.0\Market.Repositories.csproj.AssemblyReference.cache
+C:\Users\Manoo\source\repos\G11_Market\Market.App\Market.Repositories\obj\Debug\net10.0\Market.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Manoo\source\repos\G11_Market\Market.App\Market.Repositories\obj\Debug\net10.0\Market.Repositories.AssemblyInfoInputs.cache
+C:\Users\Manoo\source\repos\G11_Market\Market.App\Market.Repositories\obj\Debug\net10.0\Market.Repositories.AssemblyInfo.cs
+C:\Users\Manoo\source\repos\G11_Market\Market.App\Market.Repositories\obj\Debug\net10.0\Market.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\Manoo\source\repos\G11_Market\Market.App\Market.Repositories\obj\Debug\net10.0\Market.Repositories.sourcelink.json
+C:\Users\Manoo\source\repos\G11_Market\Market.App\Market.Repositories\bin\Debug\net10.0\Market.Repositories.deps.json
+C:\Users\Manoo\source\repos\G11_Market\Market.App\Market.Repositories\bin\Debug\net10.0\Market.Repositories.dll
+C:\Users\Manoo\source\repos\G11_Market\Market.App\Market.Repositories\bin\Debug\net10.0\Market.Repositories.pdb
+C:\Users\Manoo\source\repos\G11_Market\Market.App\Market.Repositories\obj\Debug\net10.0\Market.Repositories.dll
+C:\Users\Manoo\source\repos\G11_Market\Market.App\Market.Repositories\obj\Debug\net10.0\refint\Market.Repositories.dll
+C:\Users\Manoo\source\repos\G11_Market\Market.App\Market.Repositories\obj\Debug\net10.0\Market.Repositories.pdb
+C:\Users\Manoo\source\repos\G11_Market\Market.App\Market.Repositories\obj\Debug\net10.0\ref\Market.Repositories.dll

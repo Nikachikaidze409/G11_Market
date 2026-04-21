@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Market.Repositories")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5ab138b7f79597c70de40377990cc695e5375acb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0affab368fe31d949927b3d75920380a953692d1")]
 [assembly: System.Reflection.AssemblyProductAttribute("Market.Repositories")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Market.Repositories")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
