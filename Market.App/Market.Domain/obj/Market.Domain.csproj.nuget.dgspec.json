@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Manoo\\source\\repos\\G11_Market\\Market.App\\Market.Domain\\Market.Domain.csproj": {}
+    "C:\\Users\\User1\\source\\repos\\Nikachikaidze409\\G11_Market\\Market.App\\Market.Domain\\Market.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Manoo\\source\\repos\\G11_Market\\Market.App\\Market.Domain\\Market.Domain.csproj": {
+    "C:\\Users\\User1\\source\\repos\\Nikachikaidze409\\G11_Market\\Market.App\\Market.Domain\\Market.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Manoo\\source\\repos\\G11_Market\\Market.App\\Market.Domain\\Market.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\User1\\source\\repos\\Nikachikaidze409\\G11_Market\\Market.App\\Market.Domain\\Market.Domain.csproj",
         "projectName": "Market.Domain",
-        "projectPath": "C:\\Users\\Manoo\\source\\repos\\G11_Market\\Market.App\\Market.Domain\\Market.Domain.csproj",
-        "packagesPath": "C:\\Users\\Manoo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Manoo\\source\\repos\\G11_Market\\Market.App\\Market.Domain\\obj\\",
+        "projectPath": "C:\\Users\\User1\\source\\repos\\Nikachikaidze409\\G11_Market\\Market.App\\Market.Domain\\Market.Domain.csproj",
+        "packagesPath": "C:\\Users\\User1\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\User1\\source\\repos\\Nikachikaidze409\\G11_Market\\Market.App\\Market.Domain\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Manoo\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\User1\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,7 +22,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Market.Extensions")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0affab368fe31d949927b3d75920380a953692d1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+394a42322b56e8c5a2b816f45eda83bf01099932")]
 [assembly: System.Reflection.AssemblyProductAttribute("Market.Extensions")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Market.Extensions")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
