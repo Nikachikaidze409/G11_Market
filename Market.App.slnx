@@ -1,0 +1,29 @@
+<Solution>
+  <Folder Name="/Database/">
+    <Project Path="Market.Database/Market.Database.sqlproj" Id="4fc28018-8017-4a26-be44-b856c8b219d4">
+      <Build />
+      <Deploy />
+    </Project>
+  </Folder>
+  <Folder Name="/DataBaseRepository/" />
+  <Folder Name="/EntryPoint/">
+    <Project Path="EntryPoing/EntryPoint.csproj" Id="083b17c7-046f-4268-ad44-a6750bc5f776" />
+  </Folder>
+  <Folder Name="/Market.Extensions/">
+    <Project Path="DataBaseAbstractRepository/DataBaseAbstractRepository.csproj" />
+  </Folder>
+  <Folder Name="/Market.Extensions/AdminFunctions/">
+    <Project Path="AdminFunctons/AdminFunctons.csproj" Id="afce42e7-7864-4f19-9071-5042741693a2" />
+  </Folder>
+  <Folder Name="/Market.Extensions/ILogger/">
+    <Project Path="ILogger/LoggerRepository.csproj" Id="74dac8ca-aee9-4e5f-b46e-bd97f56f01c9" />
+  </Folder>
+  <Folder Name="/Market.Services/" />
+  <Folder Name="/Market.Services/authorizationRepositroy/" />
+  <Folder Name="/Market.Services/IRepository/">
+    <Project Path="ADResponsibility/IRepository.csproj" Id="d3328bdf-7049-4f30-8e95-41fa2a17f283" />
+  </Folder>
+  <Folder Name="/MarketDTO/">
+    <Project Path="Products/MarketDTO.csproj" Id="b3755520-0b08-4025-90ae-84fbdd922e13" />
+  </Folder>
+</Solution>
